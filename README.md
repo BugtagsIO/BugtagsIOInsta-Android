@@ -1,8 +1,8 @@
-# BugtagsIOInsta Android SDK
+# BugtagsInsta real-time monitor for Android
 
 > latest version is `1.0.3`
 
-BugtagsInsta for Android, a powerful plugin for [BugtagsIO SDK](https://github.com/BugtagsIO/BugtagsIO-Android-Studio)， monitor your mobile app in real-time, providing instant & rich information for your development.
+BugtagsInsta for Android, a powerful plugin for [Bugtags SDK](https://github.com/BugtagsIO/BugtagsIO-Android-Studio), monitor your mobile app in real-time, providing instant & rich information for your development.
 
 # Features
 1. Real-time monitor cpu, memory & storge usage.
