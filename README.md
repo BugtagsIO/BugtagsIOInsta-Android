@@ -46,7 +46,7 @@ Bugtags.registerPlugin(new BugtagsInsta(10080));
 
 ### Integration Steps(Eclipse)
 
-1. Download [SDK](http://bugtags.io/url/bugtagsinsta-android) and extract it
+1. Download [SDK](https://github.com/BugtagsIO/BugtagsIOInsta-Android/releases/latest) and extract it
 
 2. drag `bugtags-insta-[version].jar` to libs folder of Eclipse, and add to buildpath
 
